@@ -25,7 +25,7 @@
 
 # About
 
-#### This application, "Users List", is a web application for creating a list of expenses. This project was made during a ReactJS course with only ReactJS, but I challenged myself to add and work with TypeScript on my own, even though there are some stuff that need improvement on the TypeScript.
+#### This application, "Users List", is a web application for creating a list of users. This project was made during a ReactJS course with only ReactJS, but I challenged myself to add and work with TypeScript on my own, even though there are some stuff that need improvement on the TypeScript.
 
 # Home
 
